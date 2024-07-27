@@ -2,7 +2,7 @@
 
 ## Overview
 
-`install.sh` is a comprehensive bash script designed to automate the installation of a suite of essential tools and software for WHM (WebHost Manager) on AlmaLinux. This script simplifies the setup process by installing and configuring WHM/cPanel, LiteSpeed, CloudLinux, Imunify360, JetBackup, and WHMReseller.
+`whm-suite-installer` is a comprehensive bash script designed to automate the installation of a suite of essential tools and software for WHM (WebHost Manager) on AlmaLinux. This script simplifies the setup process by installing and configuring WHM/cPanel, LiteSpeed, CloudLinux, Imunify360, JetBackup, and WHMReseller.
 
 ## Features
 
